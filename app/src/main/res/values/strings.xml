@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">INTERFAZ</string>
+    <string name="tv_titulo">registro de usuario</string>
+    <string name="et_documento">documento</string>
+    <string name="et_usuario">usuario</string>
+    <string name="et_nombres">nombres</string>
+    <string name="et_apellidos">apellidos</string>
+    <string name="et_contra">contraseña</string>
+    <string name="bt_registar">registrar</string>
+    <string name="bt_leer">leer</string>
+    <string name="bt_actualizar">actualizar</string>
+    <string name="bt_eliminar">eliminar</string>
+
+</resources>
